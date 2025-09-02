@@ -1,0 +1,21 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.c-loader{
+    animation: rotating 1s infinite;
+    border: 6px solid #e5e5e5;
+    border-top-color: #51d4db;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+@keyframes rotating{
+    to{
+        transform: rotate(1turn);
+    }
+}
