@@ -37,14 +37,5 @@ O segredo deste loader está na propriedade `border`. Três lados do círculo re
 
 ---
 
-## Exemplo de customização
+<img width="461" height="201" alt="image" src="https://github.com/user-attachments/assets/e205665b-5659-4e4c-aa81-5671e4a148bc" />
 
-```css
-.c-loader {
-    width: 80px;      /* Loader maior */
-    height: 80px;
-    border-width: 8px; /* Borda mais grossa */
-    animation-duration: 0.8s; /* Rotação mais veloz */
-}
-
-https://github.com/user-attachments/assets/4f0ab1c8-f0d3-4b59-a66b-61f8e46ba4d4
